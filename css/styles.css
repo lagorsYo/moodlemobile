@@ -1182,12 +1182,12 @@ hr {
 }
 .path-messages .conversation .conversation-area .bubble-alt {
   background-color: #ffffff;
-  border-color: #fa8f1c;
+  border-color: #aabbdd;
   float: right;
 }
 .path-messages .conversation .conversation-area .bubble-alt:before {
   border-color: transparent;
-  border-left-color: #fa8f1c;
+  border-left-color: #aabbdd;
   left: auto;
   right: -16px;
 }
@@ -1671,10 +1671,10 @@ div.jqi button:hover {
   background-color: #728A8C;
 }
 div.jqi button.jqidefaultbutton {
-  background-color: #BF5E26;
+  background-color:  #601f35;
 }
 .jqiwarning .jqi .jqibuttons {
-  background-color: #BF5E26;
+  background-color:  #601f35;
 }
 .jqi .jqiarrow {
   position: absolute;
